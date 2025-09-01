@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- 背景圆 -->
+  <circle cx="24" cy="24" r="22" fill="#f0f0f0" stroke="#333" stroke-width="1"/>
+  
+  <!-- 彩色图形 - 星星 -->
+  <path d="M24 5 L27 18 L41 19 L30 29 L33 43 L24 35 L15 43 L18 29 L7 19 L21 18 Z" fill="#FFD700"/>
+  
+  <!-- 彩色圆环 -->
+  <circle cx="24" cy="24" r="15" fill="none" stroke="#FF6B6B" stroke-width="3" stroke-dasharray="5,3"/>
+  
+  <!-- 彩色小圆点 -->
+  <circle cx="12" cy="12" r="4" fill="#4ECDC4"/>
+  <circle cx="36" cy="12" r="4" fill="#FF6B6B"/>
+  <circle cx="12" cy="36" r="4" fill="#FFD166"/>
+  <circle cx="36" cy="36" r="4" fill="#06D6A0"/>
+</svg>
