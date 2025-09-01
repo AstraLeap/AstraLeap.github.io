@@ -1,17 +1,5 @@
 // 页面加载完成后执行
 window.addEventListener('load', function () {
-    // 获取标题元素
-    const title = document.querySelector('h1');
-
-    // 添加淡入动画效果
-    title.style.opacity = '0';
-    title.style.transition = 'opacity 1s ease-in-out';
-
-    // 延迟执行淡入效果
-    setTimeout(() => {
-        title.style.opacity = '1';
-    }, 1000);
-
     // 获取视频播放器元素
     const videoPlayer = document.querySelector('.ycy');
 
